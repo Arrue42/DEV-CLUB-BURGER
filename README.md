@@ -10,11 +10,11 @@ Ola, nesse projeto foi usado as tecnologia
 <br>
 No <strong>JAVASCRIPT</strong> foi usado 
 <br>
-<strong>MAP<strong/>
+<strong>MAP</strong>
 <br>
-<strong>REDUCE<strong/>
+<strong>REDUCE</strong>
 <br>
-<strong>FILTER<strong/>
+<strong>FILTER</strong>
 
 :+1:
 <br>
